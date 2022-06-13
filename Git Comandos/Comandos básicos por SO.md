@@ -22,23 +22,25 @@ Limpar o terminal:
 
 
 
+
 #### Comandos iguais nos SOs
+
 
 Para abrir uma determinada pasta:
 
-​                                    **cd **
+​                                    **cd**
 
 Para descer um nível de diretório:
 
-​                                    **cd .. **
+​                                    **cd ..**
 
 Ir à pasta raiz:
 
-​                                    **cd / **
+​                                    **cd /**
 
 Criar uma pasta:
 
-​                                  **mkdir **
+​                                  **mkdir**
 
 Mostrar o caminho da pasta atual:
 
