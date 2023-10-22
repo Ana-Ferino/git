@@ -1,10 +1,7 @@
-## Projeto da DIO sobre Git/GitHub - Primeiro Repositório
+## Git/Github
+Diferenças, conceitos e comandos para o entendimento e consulta quando necessário.
 
-Repositório criado para o Desafio de Projeto de Git/GitHub da DIO, apresentando alguns dos aprendizados na jornada do Bootcamp Full Stack Santander.
-
-## Links Úteis
-
-[Git Download](https://git-scm.com/downloads)
+### Docs
 
 [Git Documentation](https://git-scm.com/docs/git/pt_BR)
 
